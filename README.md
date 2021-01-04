@@ -1,6 +1,8 @@
 ### Hello there 👋 I'm Yurii
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ErihKoh&show_icons=true&theme=radical)
 
+https://profile-summary-for-github.com/user/ErihKoh#screenshot
+
 
 
 <!--
