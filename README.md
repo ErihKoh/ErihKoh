@@ -21,7 +21,7 @@
 
 **Languages**
 
-<img alt="C" height="40" src="https://skillicons.dev/icons?i=c,py,js,html,css,sass" />
+<img alt="C" height="40" src="https://skillicons.dev/icons?i=py,js,html,css,sass" />
 
 **Frontend & backend**
 
