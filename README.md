@@ -1,45 +1,73 @@
-### Hello there 👋 I'm Yurii
-![Anurag's
- github stats](https://github-readme-stats.vercel.app/api?username=ErihKoh&show_icons=true&theme=radical)
+<h1 align="center">Hello there 👋 I'm Yurii</h1>
 
-
-
-
-<!--
-**ErihKoh/ErihKoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h2>🌱My current stack of technologies:</h2>
-
-<img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> 
-<img align="left" alt="Sass" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /> 
-<img align="left" alt="Sass" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> 
-<img align="left" alt="Sass" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> 
-<img align="left" alt="Sass" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> 
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Sass" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" /> 
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
-
-<h3>📫 How to reach me: </h3>
-<p><a href="mailto:barsuk0831@gmail.com" target="_blank"><img alt="gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://github.com/ErihKoh" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/yurii-zubar-3bba7720b" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"</a> 
+<p align="center">
+  Software developer working across <b>embedded systems</b>, <b>algorithmic trading</b> and <b>full-stack web</b>.<br/>
+  I like building things that connect code to the real world — from microcontrollers to markets.
 </p>
 
+<p align="center">
+  <a href="mailto:barsuk0831@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/ErihKoh"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/yurii-zubar-3bba7720b"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErihKoh&layout=compact)](https://github.com/ErihKoh/github-readme-stats)
+## 🔭 What I do
 
-![Profile views](https://gpvc.arturio.dev/ErihKoh)
+- 🔌 **Embedded & hardware** — firmware in C, STM32 and Arduino projects, sensors and actuators, hands-on electronics
+- 📈 **Algorithmic trading & ML** — ML-driven trading bots (XGBoost + MetaTrader 5) for EURUSD
+- 👁️ **Computer vision** — object and laser-pointer tracking with OpenCV and Arduino (pan-tilt system)
+- 🤖 **AI agents** — LLM tool calling, agent loops, memory, RAG, evaluation
+- 🌐 **Full-stack web** — Python / Django, React, Node.js, MongoDB
+- 🧪 **Machine learning** — data preparation, model training and validation, applied to trading and computer vision
+- 🛩️ **Autonomous systems** — UAV software architecture: PX4 / ArduPilot, MAVLink, ROS 2, SITL
+
+## 🛠️ Tech stack
+
+**Languages**
+
+<img alt="C" height="40" src="https://skillicons.dev/icons?i=c,py,js,html,css,sass" />
+
+**Frontend & backend**
+
+<img alt="Frontend and backend" height="40" src="https://skillicons.dev/icons?i=django,react,nodejs,express,mongodb,webpack" />
+
+**Embedded, vision & tooling**
+
+<img alt="Embedded and tooling" height="40" src="https://skillicons.dev/icons?i=arduino,opencv,git,github,vscode" />
+
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
+![MetaTrader 5](https://img.shields.io/badge/MetaTrader_5-1E88E5?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-6A1B9A?style=flat-square)
+![XGBoost](https://img.shields.io/badge/XGBoost-EB5E28?style=flat-square)
+![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white)
+![MAVLink](https://img.shields.io/badge/MAVLink-0A5C8F?style=flat-square)
+
+## 🧠 Knowledge areas
+
+| Area | Topics |
+|------|--------|
+| **Embedded systems** | Microcontroller firmware, peripherals, build toolchains, sensor interfacing |
+| **Machine learning** | Feature engineering, model training and validation, gradient boosting, backtesting, trading-system design |
+| **Computer vision** | Real-time object detection and tracking, camera-to-actuator control loops |
+| **AI / LLM engineering** | Typed LLM contracts, tool calling, agent loops, memory, RAG, workflow graphs, evaluation |
+| **Autonomous systems** | Flight-controller software, MAVLink, ROS 2, simulation (SITL), fail-safe design |
+| **Web development** | Django (Python) backends, component-based UIs, REST APIs, NoSQL databases, bundlers |
+
+## 🌱 Currently
+
+- Building an ML-based trading bot — [win_traders](https://github.com/ErihKoh/win_traders)
+- Working on a pan-tilt tracking system with OpenCV and Arduino
+- Learning and writing courses on STM32, AI agents and UAV software
+
+## 📊 GitHub stats
+
+<p align="center">
+  <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ErihKoh&show_icons=true&theme=radical" />
+  <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErihKoh&layout=compact&theme=radical" />
+</p>
+
+<p align="center">
+  <img alt="Profile views" src="https://gpvc.arturio.dev/ErihKoh" />
+</p>
