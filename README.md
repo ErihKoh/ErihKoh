@@ -35,7 +35,6 @@
 ![MetaTrader 5](https://img.shields.io/badge/MetaTrader_5-1E88E5?style=flat-square)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-6A1B9A?style=flat-square)
 ![XGBoost](https://img.shields.io/badge/XGBoost-EB5E28?style=flat-square)
-![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white)
 ![MAVLink](https://img.shields.io/badge/MAVLink-0A5C8F?style=flat-square)
 
 ## 🧠 Knowledge areas
