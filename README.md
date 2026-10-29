@@ -51,7 +51,7 @@
 
 ## 🌱 Currently
 
-- Building an ML-based trading bot — [win_traders](https://github.com/ErihKoh/win_traders)
+- Building an ML-based trading bot
 - Working on a pan-tilt tracking system with OpenCV and Arduino
 - Learning and writing courses on STM32, AI agents and UAV software
 
