@@ -1,4 +1,4 @@
-<h1 align="center">Hello there 👋 I'm Yurii</h1>
+<h1 align="center">Hello there 👋 I'm Erih</h1>
 
 <p align="center">
   Software developer working across <b>embedded systems</b>, <b>algorithmic trading</b> and <b>full-stack web</b>.<br/>
